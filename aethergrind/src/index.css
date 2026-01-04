@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root {
+  font-family: 'Georgia', serif;
+  line-height: 2em;
+  font-weight: bold;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #100f16;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

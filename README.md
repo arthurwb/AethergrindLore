@@ -1,0 +1,1 @@
+This is a lore wiki for the Aethergrind role playing game and exended works. This is a living wiki and very WIP which means that informaiton included herin is subject to constant revision and changes.
