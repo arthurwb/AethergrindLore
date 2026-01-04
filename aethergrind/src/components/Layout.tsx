@@ -8,9 +8,7 @@ const Layout = () => {
 
         <Link className="nav-button" to="/">Home</Link>
         <Link className="nav-button" to="/aein">Aein</Link>
-        <Link className="nav-button" to="/companies">Companies</Link>
-        <Link className="nav-button" to="/technology">Technology</Link>
-        <Link className="nav-button" to="/misc">Misc</Link>
+        <Link className="nav-button" to="/maps">Maps</Link>
       </div>
 
       <main>

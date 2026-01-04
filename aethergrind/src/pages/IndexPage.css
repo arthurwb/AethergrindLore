@@ -83,3 +83,21 @@ h1 {
   text-decoration: underline;
   color: var(--secondary-color)
 }
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 2rem;
+  }
+  .container {
+    padding: 0%;
+  }
+  .nav-button {
+    padding: 0.25rem 0.5rem;
+    margin-top: 0.25rem;
+    width: 100%;
+  }
+  .folder-box {
+    padding: 2px;
+    margin: 0%;
+  }
+}
