@@ -5,14 +5,14 @@ FROM node:22-alpine AS build
 WORKDIR /app
 
 # Copy package files and install dependencies
-COPY package.json yarn.lock ./
-RUN yarn install --frozen-lockfile
+COPY package.json package-lock.json ./
+RUN npm install --frozen-lockfile
 
 # Copy the rest of the source code
 COPY . .
 
 # Build the Vite app for production
-RUN yarn build
+RUN npm run build
 
 # Stage 2: Serve with nginx
 FROM nginx:stable-alpine
