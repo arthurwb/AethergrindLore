@@ -7,9 +7,62 @@
 
 h1 {
   font-size: 3rem;
+  margin-top: 0.5rem;
   margin-bottom: 1rem;
 
   color: var(--primary-color);
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+
+  color: var(--primary-color);
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+
+  color: var(--primary-color);
+}
+
+h4 {
+  font-size: 1.25rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+
+  color: var(--primary-color);
+}
+
+h5 {
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+
+  color: var(--primary-color);
+}
+
+ul li {
+  position: relative;
+  list-style: none; /* remove default bullets */
+  padding-left: 1em; /* space for the dot */
+}
+
+ul li::before {
+  content: "•";       /* the dot character */
+  position: absolute;
+  left: 0;
+  color: #555;        /* dot color */
+  font-size: 1em;     /* size of the dot */
+  line-height: 1;     /* align with text */
+}
+
+strong {
+  font-weight: bold;
+  color: var(--secondary-color);
 }
 
 .container {
