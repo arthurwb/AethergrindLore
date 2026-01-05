@@ -9,6 +9,8 @@ type FolderNode = {
   children: Record<string, FolderNode>
 }
 
+const IGNORED_FOLDERS = new Set(['Locations'])
+
 // Step 1: build folder tree
 function buildFolderTree() {
   const root: FolderNode = { name: 'Root', files: [], children: {} }
@@ -17,6 +19,11 @@ function buildFolderTree() {
     const relativePath = path.replace('/src/content/', '')
     const parts = relativePath.split('/')
     const fileName = parts.pop()! // remove file
+
+    // 🔴 If ANY folder in the path is ignored, skip entirely
+    if (parts.some(part => IGNORED_FOLDERS.has(part))) {
+      return
+    }
 
     let currentNode = root
 
