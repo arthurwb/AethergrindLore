@@ -1,4 +1,4 @@
-**Region: Nalia Elista**
+### **Region: Nalia Elista**
 *Center*: Evergreen (Elen Evergreen)
 *Government*: Monarchy
 *Ruler*: Queen Atia
@@ -6,7 +6,7 @@
 *Biome*: Taiga
 *Economy*: Trade, Manufacturing, Artisan Goods, Logging
 
-**Region: Vivenos**
+### **Region: Vivenos**
 *Center*: Elen Foll
 *Government*: Oligarchy
 *Ruler*: The Lord Counsel
@@ -14,7 +14,7 @@
 *Biome*: Steppe
 *Economy*: Agriculture, Trade, Fishing
 
-**Region: Lugoro**
+### **Region: Lugoro**
 *Center*: Elen Greenhaunt
 *Government*: Magocracy
 *Ruler*: Local Druids

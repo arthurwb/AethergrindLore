@@ -1,4 +1,4 @@
-**Region: Malanta**
+### **Region: Malanta**
 *Center*: New Taro
 *Government*: Plutocracy
 *Ruler*: Lord Darro
@@ -6,7 +6,7 @@
 *Biome*: Temperate Steppe/Broadleaf Forest
 *Economy*: Agriculture, Trade
 
-**Region: The Middens**
+### **Region: The Middens**
 *Center*: Galystun
 *Government*: Plutocracy
 *Ruler*: Lord Fletching

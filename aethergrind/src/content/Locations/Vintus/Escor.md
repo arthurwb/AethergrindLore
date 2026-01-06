@@ -1,4 +1,4 @@
-**Region: Aein-Eske**
+### **Region: Aein-Eske**
 *Center*: Aein-Mun
 *Government*: Theocracy
 *Ruler*: Archdruid Hazan

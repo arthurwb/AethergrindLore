@@ -1,4 +1,4 @@
-**Region: Wormwatch**
+### **Region: Wormwatch**
 *Center*: Nolan
 *Government*: Autocracy
 *Ruler*: Baron Montel
@@ -6,7 +6,7 @@
 *Biome*: Floodplain/Marsh
 *Economy*: Transportation, Trade, Fishing, Agriculture
 
-**Region: Sestisian Crossing**
+### **Region: Sestisian Crossing**
 *Center*: Servin Non Potenius
 *Government*: Diarchy
 *Ruler*: Lord Etel, Lady Unger

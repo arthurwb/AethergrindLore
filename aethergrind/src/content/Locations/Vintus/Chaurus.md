@@ -1,4 +1,4 @@
-**Region: Caurus**
+### **Region: Caurus**
 *Center*: Silus Point
 *Government*: Confederation, Monarchy
 *Ruler*: Madam Durand

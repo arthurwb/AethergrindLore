@@ -22,18 +22,8 @@ Players are not allowed to harm or otherwise disrupt a player physically. They c
 
 Major league teams play at the city or region level, premier league teams play at the state or national level.
 
-### Teams:
-* M: Clover Station Ospreys
-* P: Clover Marauders
-* M: Barpool Merchants
-* P 
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-
-*italic*
-
-**bold**
+Teams:
+M: Clover Station Ospreys
+P: Clover Marauders
+M: Barpool Merchants
+P 
