@@ -1,0 +1,3 @@
+Draedon System of Autoscribe Script
+
+Bridging the gap between grammatical systems and runic systems, autoscript provides a set of commands or rules which a scribe can input into an autoscribe in order to provide a translation from the easy to read grammatical system a spell might have been written in, into a non-readable runic system like Nillian runes. This process can take a grammatical scripted spell of thousands of words and condense it down into a space smaller than a person's fingertip.

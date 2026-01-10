@@ -23,7 +23,20 @@ Players are not allowed to harm or otherwise disrupt a player physically. They c
 Major league teams play at the city or region level, premier league teams play at the state or national level.
 
 Teams:
-M: Clover Station Ospreys
-P: Clover Marauders
-M: Barpool Merchants
-P 
+* Clover
+	* M: Clover Station Ospreys
+	* P: Clover Marauders
+* Sudinia
+	* M: Barpool Merchants
+	* P: Barpool Tyrants
+* Kir
+	* M: Kirhall Knights
+	* P: Kirhall Bandits
+* Ban
+	* P: Ban Desert Vipers
+* Onglive
+	* M: Hatcher Ferrymen
+	* P: Hatcher Necromancers
+* Axus-Non
+	* M: Nolan Bullfrogs
+	* P: Nolan Bogmen
