@@ -1,0 +1,3 @@
+Supposedly written by Saint Hiob the Perseverant during the first age. The Almanac is an outline of expected weather and other environmental expectations for 6,000 years starting on the first day.
+
+While the Almanac is only accurate about 30% of the time and is clearly based on very generalized expectations about weather patterns and changes to the environment which could be fairly easily predicted based on standard ecological and weather patterns, the Almanac is still treated as one of the most holy relics in Promasus and is worshiped by orthodox followers of Hiob.

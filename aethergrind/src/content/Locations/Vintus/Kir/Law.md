@@ -1,0 +1,3 @@
+One of the primary pillars of Kir society and government is the Rule of Law. This central idea is that the law as it is written is completely just perfect. If the law says something is illegal, then that thing is illegal in any circumstance, if the law does not say that something is illegal then it is considered either not under the purview of the law or is legal.
+
+The law is kept, edited, and interpreted by leaders known as magistrates, with the Book of Statutes being kept in the capital and managed by the lord magistrate, being regularly updated and appended. The Book of Statutes, while not a religious artifact, is considered very sacred to the people of Kir and is kept under heavy guard, with its housing being an elaborate temple where the lord magistrate also works.

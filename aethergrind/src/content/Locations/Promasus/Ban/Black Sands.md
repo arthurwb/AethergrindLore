@@ -1,0 +1,5 @@
+Iron collection and refinement is the largest industry in Ban, with Ban being the #1 supplier of iron in the world.
+
+While the sands of Ban are noticeably darker than sands found in beaches and desert of the rest of the world. Oftentimes large regions of significantly darker sand can be found. These black sand regions are uniquely high in iron content are and dredged, sifted, and extracted for their iron. The iron is taken back to a refinery (often in Se'Ban) and the iron is processed.
+
+These black sands have cultural significance to the people of Ban, specifically those that live in the desert. The sands are directly associated with the saint Navara who is said to have evoked the iron into the sands for the people. Because of this, there are some fringe groups in the desert who view the industry around the refinement of the black sands as an afront to their saint and will raid the sifters, destroying them and releasing their collected sands back into the desert.

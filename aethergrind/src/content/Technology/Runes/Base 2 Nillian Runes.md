@@ -1,0 +1,1 @@
+A base 2 runic system used in scribing runes, often used in machine scribing due to their compact nature. Known for being extremely hard to read and are often translated from more readable runic systems in order to conserve space.

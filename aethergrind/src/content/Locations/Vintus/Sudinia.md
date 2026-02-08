@@ -3,17 +3,17 @@ While Sudinia may have changed hands and names over the centuries and after the 
 While externally there appears a rising rivalry between Onglive in the east and Sudinia, any who work in the corporate sector of either country know that both are just two arms of a much larger and much more all-consuming corporate entity.
 
 ### **Region: Barpool**
-*Center*: Barpool
-*Government*: Cororatocracy
-*Ruler*: Willard Kellem Group
-*Climate*: Cool Temperate Moist
-*Biome*: Temperate Broadleaf Forest
-*Economy*: Trade, Finance, Transportation
+- *Center*: Barpool
+- *Government*: Cororatocracy
+- *Ruler*: Willard Kellem Group
+- *Climate*: Cool Temperate Moist
+- *Biome*: Temperate Broadleaf Forest
+- *Economy*: Trade, Finance, Transportation
 
 ### **Region: Magros**
-*Center*: Julana
-*Government*: Corporatocracy
-*Ruler*: South Shores Limited
-*Climate*: Warm Temperate Moist
-*Biome*: Mediterranean
-*Economy*: Trade, Manufacturing, Transportation
+- *Center*: Julana
+- *Government*: Corporatocracy
+- *Ruler*: South Shores Limited
+- *Climate*: Warm Temperate Moist
+- *Biome*: Mediterranean
+- *Economy*: Trade, Manufacturing, Transportation
