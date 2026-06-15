@@ -18,3 +18,18 @@ One of the youngest cities in the west, Clover Station has grown to become one o
 - *Biome*: Mediterranean/Subtropical Forest
 - *Economy*: Agriculture, Logging, Fishing
 
+#### Names
+* Daren
+* Aaron
+* Liken
+* Dauben
+* Erik
+* Kimmy
+* Maerk
+* Savan
+* Haren
+* Josen
+* Roren
+* Malik
+
+## Culture

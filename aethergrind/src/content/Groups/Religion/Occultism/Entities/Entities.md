@@ -3,3 +3,4 @@
 * Mr Inside
 * Mr Outside
 * The Antimana
+* The Operator

@@ -1,4 +1,4 @@
-There are 4 major cities in [[Aein]]: *[[Clover Station]]*, *Barpool*, *Se'ban*, and *Hatcher*.
+There are 4 major cities in [[Lore/Groups/Religion/Aienism/Aein]]: *[[Clover Station]]*, *Barpool*, *Se'ban*, and *Hatcher*.
 
 These are not just "large" cities, these are *MEGA cities*. City states which encompass multiple cities within them.
 

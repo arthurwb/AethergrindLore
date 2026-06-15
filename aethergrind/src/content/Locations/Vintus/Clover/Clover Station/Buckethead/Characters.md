@@ -1,0 +1,2 @@
+**Squall the Native**
+	Despite his name he has never really lived in the Pit, but he has a soft spot for natives and is usually the one to talk to if you need cheap native workers or you need something from the Pit but dont want to spend the money to send someone down.

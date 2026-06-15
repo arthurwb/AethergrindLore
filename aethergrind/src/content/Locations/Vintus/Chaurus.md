@@ -5,3 +5,13 @@
 - *Climate*: Tropical/Subtropical Moist
 - *Biomes*: Subtropical Rainforest
 - *Economy*: Trade, Piracy
+
+#### Names
+* Map
+* Scribe
+* Sail
+* West
+* Floral
+* Drake
+* Pressure
+* Rings

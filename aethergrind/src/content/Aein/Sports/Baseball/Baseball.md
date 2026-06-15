@@ -18,7 +18,7 @@ Pitchers are often the most heavily augmented, almost becoming not much more tha
 
 Other positions like short stop often provide auxiliary support, attempting to impede runners without physically touching them.
 
-Players are not allowed to harm or otherwise disrupt a player physically. They can attempt to counter any magic they are using, but they cannot attack or alter players on the other team.
+Players are not allowed to harm or otherwise disrupt a player physically. They can attempt to counter any magic they are using, but they cannot attack or alter players on the other team. Doing so results in a 1 point penalty and the offending player is removed from the game.
 
 Major league teams play at the city or region level, premier league teams play at the state or national level.
 

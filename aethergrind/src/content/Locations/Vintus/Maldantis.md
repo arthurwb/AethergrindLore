@@ -31,3 +31,17 @@ Many would consider Folly to be the only civilized place left in Maldantis. Form
 - *Climate*: Warm Temperate Dry
 - *Biome*: Xeric Shrubland
 - *Economy*: Raiding, Mining, Transportation
+
+#### Names
+* Markus
+* Aralias
+* Hadrian 
+* Ovidia
+* Severus
+* Titus
+* Alba
+* Fabia
+* Lucilla
+* Vita
+* Nona
+* Caelia

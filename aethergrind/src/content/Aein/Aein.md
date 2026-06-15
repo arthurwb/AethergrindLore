@@ -1,15 +1,13 @@
-The World that the story takes place in. Created by a god as means of preservation, creating life and transferring the survivors of a previous, failed attempt.
+Aein is a near perfect sphere centered in the middle of material space. 2 major celestial objects orbit Aein: the moon (Lurin) and the sun (Solin). 
 
-Aein is also the name of the god.
+The planet is mostly composed of water with a large section on one of the faces holding 2 vast continents with multiple subcontinents spread around them.
 
-In modern times, Aein is recorded as only being around for a few thousand years.
+The planet is green and temperate with growing seasons in half the year and winters in the other half.
 
-Aein is truthfully much older than this, as the world had served as a testing grounds for dragons before they were used in another project. Since then the dragons have been left to die out.
+The world has unique geography and climate which implies magical intervention and intelligent design.
 
-Aein sees the world as a interpretational art project. As such they are more interested in just seeing how things turn out rather than investing themselves fully.
+Aein sits in the center of the composite plane, spinning slowly. 
 
-Things happen all the time that are not necessarily "Aein's will." These things relate to how Aein sees the world, should something unexpected happen, that is all part of the art.
+The sun and moon orbit Aein in symmetry to one another so that one is never seen in the same sky as the other.
 
-Aein is ostensibly 4th dimensional and views all time as a single tapestry, as such things that will happen, things that have happened, and things that are happening are all melded into one from its perspective.
-
-Aein is completely beyond comprehension, beyond space and beyond time
+The sun orbits significantly further away than the moon, with its distance oscillating back and forth, creating the seasons. This distance also means that during the night the moon is most visible during dawn and dusk and then becomes dimmer and dimmer as the shadow of Aein covers it, until it is fully covered at midnight before growing in brightness until dawn.

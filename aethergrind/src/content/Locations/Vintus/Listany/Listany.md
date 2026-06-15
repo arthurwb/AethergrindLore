@@ -17,3 +17,15 @@ Since the coming of the Fey Lords about 1,500 years ago the Listen Forest has be
 - *Economy*: Trade, Agriculture, Fishing
 
 The only region of Listany which is inhabited by creatures of this plane. The people of e'Mool are ruled by a rejected Fey Lord, forcing her inconstant governance and edicts on the people.
+
+#### Names
+* Alfred
+* Elric
+* Swann
+* Harlan
+* Vilfred
+* Ashleigh
+* Elfrieda
+* Hilda
+* Leigh
+* Sommer

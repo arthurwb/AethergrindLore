@@ -7,17 +7,18 @@ There are around *250 saints* still worshipped in the modern age, though there i
 ## Popular Saints
 Rank | Name | Percentage of Orthodox practitioners
 1. Taro - 20%
-2. Navara - 6%
-3. Hiob the Perseverant - 2%
+2. Hiob the Perseverant - 8%
+3. Navara - 4%
 4. Dredon of Clover - 1%
 <1%
 ...the rest
 ### Saints
 * Nero, the One Who Knows
-* Taro, the Indefatigable/the Corrupt
+* Taro, the Indefatigable
 * Navara, of Warm Sands
+	* 95% of Ban is orthodox with almost 80% of those orthodox practitioners following Navara. While Navara is not worshiped outside of Ban, the sheer number of followers in Ban makes her one of the most worshiped saints.
 * Hiob, the Perseverant
-	* Patron of Promasus after the Abdication of Taro. While the vast majority of Promasus is polytheistic, those that are orthodox (mostly found in New Taro) worship Hiob.
+	* Patron of Promasus after the Abdication of Taro. The vast majority of Promasus is Orthodox and while many worship their own local saints, many default to Hiob if they do not have a historical saint from their region or who worked in the area.
 * Dredon, River Lord of Clover
 * Sloth, the Exhausted
 * Nightmare Eater
@@ -26,3 +27,4 @@ Rank | Name | Percentage of Orthodox practitioners
 	* Selene, the Right Eye of Darkness
 	* Philip, the Left Hand of Darkness
 	* Jarib, the Right Hand of Darkness
+* Undark, of the Long Death

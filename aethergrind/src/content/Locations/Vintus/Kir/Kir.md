@@ -33,3 +33,15 @@ While Kirhall might serve as the capital, the region of Torr is the metaphorical
 - *Climate*: Warm Temperate Dry
 - *Biome*: Temperate Steppe
 - *Economy*: Mining, Trade, Agriculture
+
+#### Names
+* Johnathan (John)
+* William (Will)
+* Jackson (Jack)
+* Michael (Mike)
+* Benjamin (Ben)
+* Annabella (Anna)
+* Elizabeth (Liz)
+* Margaret (Meg)
+* Rebecca (Becca)
+* Catherine (Cathy)

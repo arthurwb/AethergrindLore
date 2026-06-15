@@ -2,9 +2,9 @@ Michaela is an archangel who guards the Gates of Arcadia.
 
 There is no known way to harm or kill Michaela.
 
-Michaela does not have a set appearance and change in shape from interaction to interaction.
+Michaela does not have a set appearance and will change in shape from interaction to interaction.
 
-Michaela does not speak and only open and closes the Gates of Arcadia.
+Michaela does not speak and only opens and closes the Gates of Arcadia.
 
 These gates cannot be opened by anyone other than Michaela and should anyone try to open the gates Michaela either kills or removes them from the plane.
 
