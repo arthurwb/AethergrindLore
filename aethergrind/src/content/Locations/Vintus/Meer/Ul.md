@@ -2,4 +2,4 @@ The Great Lake of Ul, or simply Ul, is the largest lake in the world and takes u
 
 The lake itself is unique both for its size and the unique algae found within.
 
-While most trading between Losk'annon and the rest of the world is done via the western coast, some materials are shipped south, through Meer and often over Ul.
+While most trading between Heit'mazi and the rest of the world is done via the western coast, some materials are shipped south, through Meer and often over Ul.

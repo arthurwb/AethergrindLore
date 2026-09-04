@@ -1,4 +1,4 @@
-Onglive became mostly as an agricultural center, though because of the iron deficient soil had never been able to establish itself on the world stage, mostly just fighting to not be consumed by Promasus. Around 200 years ago, around the first industrial revolution, the city of Hatcher began to establish itself as a center for technological advancement. Even after the city has been entirely destroyed three times via manufacturing or scientific catastrophes, the city has rebuilt itself each time to only grow even more exponentially.
+Onglive began mostly as an agricultural center, though because of the iron deficient soil, it had never been able to establish itself on the world stage, mostly just fighting to not be consumed by Promasus. Around 200 years ago, around the first industrial revolution, the city of Hatcher began to establish itself as a center for technological advancement. Even after the city had been entirely destroyed three times via manufacturing or scientific catastrophes, the city has rebuilt itself each time to only grow even more exponentially.
 
 ### **Region: Hatcher Economic Corridor**
 - *Center*: Hatcher

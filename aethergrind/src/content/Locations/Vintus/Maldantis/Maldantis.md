@@ -7,7 +7,12 @@
 - *Economy*: Mercenaries, Donations, Tourism
 
 Many would consider Folly to be the only civilized place left in Maldantis. Formed by the Church of Taro after the abdication of Taro, the city has dedicated itself to cleansing Maldantis and keeping the word of Taro alive in their actions and policy.
-
+#### Minor Settlements
+#### Villages
+#### Towns
+* Lucasorium
+#### Cities
+#### Polis
 ### **Region: Pacellum**
 - *Center*: Terium
 - *Government*: Autocracy
@@ -15,7 +20,11 @@ Many would consider Folly to be the only civilized place left in Maldantis. Form
 - *Climate*: Warm Temperate Dry
 - *Biome*: Temperate Steppe
 - *Economy*: Raiding, Agriculture
-
+#### Minor Settlements
+#### Villages
+#### Towns
+#### Cities
+#### Polis
 ### **Region: Terminus**
 - *Center*: Aristeium
 - *Government*: Theocracy, Monarchy
@@ -23,7 +32,11 @@ Many would consider Folly to be the only civilized place left in Maldantis. Form
 - *Climate*: Cool Temperate Dry
 - *Biome*: Temperate Broadleaf Forest
 - *Economy*: Raiding, Mercenaries, Donations, Fishing
-
+#### Minor Settlements
+#### Villages
+#### Towns
+#### Cities
+#### Polis
 ### **Region: Endus**
 - *Center*: Murada
 - *Government*: Autocracy
@@ -31,17 +44,8 @@ Many would consider Folly to be the only civilized place left in Maldantis. Form
 - *Climate*: Warm Temperate Dry
 - *Biome*: Xeric Shrubland
 - *Economy*: Raiding, Mining, Transportation
-
-#### Names
-* Markus
-* Aralias
-* Hadrian 
-* Ovidia
-* Severus
-* Titus
-* Alba
-* Fabia
-* Lucilla
-* Vita
-* Nona
-* Caelia
+#### Minor Settlements
+#### Villages
+#### Towns
+#### Cities
+#### Polis

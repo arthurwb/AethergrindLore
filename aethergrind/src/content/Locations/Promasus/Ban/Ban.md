@@ -15,7 +15,7 @@
 - *Economy*: Mining (Sifting), Trade, Transportation
 
 ### **Region: Va’Ban**
-- *Center*: Aliku
+- *Center*: Aleen
 - *Government*: Monarchy
 - *Ruler*: King Twoset
 - *Climate*: Tropical Wet/Moist
@@ -23,14 +23,14 @@
 - *Economy*: Trade, Artisan Goods
 
 #### Names
-*There is a division between men and women in Ban, the most obvious is the division of names. The tradition is to name a daughter after the father, using "Da" (meaning daughter of) as a possessive casing. This is mostly seen in conservative households though recently there have been more cases of families giving their daughters names without the possessive casing, instead just opting for what would normally be a male name.*
+*There is a division between men and women in Ban, the most obvious is the division of names. The tradition is to name a daughter after the father, using "Fi" (meaning daughter of) as a possessive casing. This is mostly seen in conservative households though recently there have been more cases of families giving their daughters names without the possessive casing, instead just opting for what would normally be a male name.*
 * Menes
 * Narmir
 * Sseth
 * Twoset
 * Vanset
-* Da'Narmir
-* Da'Set
-* Da'Ramsa
+* Fi'Narmir
+* Fi'Set
+* Fi'Ramsa
 * Gamses
 * Mentes

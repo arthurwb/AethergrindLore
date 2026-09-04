@@ -1,4 +1,4 @@
-While technically free to leave whenever they please, the vast majority of the population is locked into a single spot, unable to afford the fees escape their current lives.
+While technically free to leave whenever they please, the vast majority of the population is locked into a single spot, unable to afford the fees to escape their current lives.
 
 Most of the peasantry of Promasus is born bound to a section of land. While this land may change hands, the individual is seen as an extension of the land and thus, when the land changes hands, so too does the individual. While they are free to travel and leave their land, doing so requires them to pay the land owner for their loss, a price which is often more than any laborer in Promasus can afford, thus locking the person to whichever plot of land they were born in.
 

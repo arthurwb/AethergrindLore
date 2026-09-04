@@ -1,0 +1,3 @@
+The Brian Thompson Foundation for Dyslexic Children is a shell company run by a cabal of shadowy figures which deal in the creation and sale of fraudulent businesses and properties.
+
+Anyone who needs a front with a significant background can find one here. Many criminal organizations use their businesses as money laundering sites. Many corporations will use land which *legally* exists as a farm as a site to test chemical weapons without any governmental oversight.

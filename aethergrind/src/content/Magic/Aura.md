@@ -1,0 +1,1 @@
+Aura exists in a superposition, both existing in the aethereal plane and the material. It is through the soul that this superposition is realized and magic is born.

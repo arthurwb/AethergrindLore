@@ -1,0 +1,3 @@
+Pathological magic relies on ones ability to convince and convey. Along with this it relies on ones ability to grasp their audience. In the case of Thaumaturgy, your audience is the universe itself, in the case of Theurgy your audience is some higher power.
+
+In both cases, a mage is able to maintain their audience's attention through any means at their disposal. A thaumaturg might create a very convincing treatises about how it would be go good for everyone involved if it were to rain right now. Along with this, creating a spectacle is also very useful, with many coisters of priests trying to make the most extravagant temple as a means of getting their god's attention. The temple is not a place of worship, it is more like a huge spell casting focus.

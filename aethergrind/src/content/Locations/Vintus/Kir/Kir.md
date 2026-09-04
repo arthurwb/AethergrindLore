@@ -35,13 +35,15 @@ While Kirhall might serve as the capital, the region of Torr is the metaphorical
 - *Economy*: Mining, Trade, Agriculture
 
 #### Names
-* Johnathan (John)
-* William (Will)
-* Jackson (Jack)
-* Michael (Mike)
-* Benjamin (Ben)
-* Annabella (Anna)
-* Elizabeth (Liz)
-* Margaret (Meg)
-* Rebecca (Becca)
-* Catherine (Cathy)
+* Daren
+* Aaron
+* Liken
+* Dauben
+* Erik
+* Kimmy
+* Maerk
+* Savan
+* Haren
+* Josen
+* Roren
+* Malik

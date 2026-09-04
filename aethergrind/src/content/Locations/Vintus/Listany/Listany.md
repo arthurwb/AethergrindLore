@@ -6,7 +6,7 @@
 - *Biome*: Temperate Forest
 - *Economy*: None
 
-Since the coming of the Fey Lords about 1,500 years ago the Listen Forest has become all but unenhabited by creatures of the Aein. Instead the forest has become infested with Fey creatures and untamable magic which warps and shifts the forest in such a way that most who enter never escape.
+Since the coming of the Fey Lords about 1,500 years ago the Listen Forest has become all but unenhabited by creatures of the composite plane. Instead the forest has become infested with Fey creatures and untamable magic which warps and shifts the forest in such a way that most who enter never escape.
 
 ### **Region: e'Mool**
 - *Center*: Stovin

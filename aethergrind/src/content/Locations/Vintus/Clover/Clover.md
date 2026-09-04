@@ -4,12 +4,22 @@ Originally a part of Kir and still culturally Kir, Clover seceded itself from th
 - *Center*: Clover Station
 - *Government*: Democratic Autocracy
 - *Ruler*: Mayor Sasha Newell
-- *Climate*: Subtropical Moist
-- *Biome*: Mediterranean/Subtropical Forest
+- *Climate*: Warm Temperate Moist
+- *Biome*: Mediterranean/Temperate Forest
 - *Economy*: Trade, Manufacturing, Transportation
 
 One of the youngest cities in the west, Clover Station has grown to become one of the more important trade and manufacturing hubs west of Kirhall. Clover Station controls most of the incoming and outgoing trade along the western coast making it a hub for corporations, travelers, and anyone trying to make a few chips.
-
+#### Minor Settlements
+#### Villages
+* Hellstort
+#### Towns
+* Blumington
+* Numansville
+#### Cities
+* Adignal
+* Avia
+#### Polis
+* Clover Station
 ### **Region: Hinterlands**
 - *Center*: Mournus
 - *Government*: Direct Democracy
@@ -17,19 +27,9 @@ One of the youngest cities in the west, Clover Station has grown to become one o
 - *Climate*: Subtropical Moist
 - *Biome*: Mediterranean/Subtropical Forest
 - *Economy*: Agriculture, Logging, Fishing
-
-#### Names
-* Daren
-* Aaron
-* Liken
-* Dauben
-* Erik
-* Kimmy
-* Maerk
-* Savan
-* Haren
-* Josen
-* Roren
-* Malik
-
-## Culture
+#### Minor Settlements
+#### Villages
+#### Towns
+#### Cities
+#### Polis
+* Mornus

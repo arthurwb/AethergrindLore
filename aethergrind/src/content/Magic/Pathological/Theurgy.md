@@ -1,1 +1,7 @@
-Theurgy is similar to thaumaturgy in the broadness in its abilities, though they are limited in what they can effect. Given that theurgy is focused on calling on divine entities (that being the saints), they mostly only deal with affecting other people. Often times this does not mean affecting them mentally the same way that animation spells do, but instead affecting a person in a more broader sense. While an animation spell might be able to read a person's thoughts or make them think something, a theurgy spell commands their very being, forces their body to act against their will or knitting their body back together, or even providing shielding.
+*Theurgist*
+* Command theic creatures.
+* See into the future or past.
+* Heal wounds of theic creatures.
+* Commanding divine providence.
+
+Theurgy is similar to thaumaturgy in the broadness in its abilities, though they are limited in what they can effect. Given that theurgy is focused on calling on divine entities (that being the saints), they mostly only deal with affecting other people. 

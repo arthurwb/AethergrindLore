@@ -1,0 +1,18 @@
+> [!dev]
+> I try to avoid applying any real world groups to the fantasy ones found herein. Though I am not Tolkien, and as such I must pick and choose where I should dedicate my time. I have spend countless hours piecing together various cultures and trying my best to make something fresh, but for language I choose to fall back on real world roots.
+> 
+> Since for all intents and purposes english is the stand in for common, I had to think about what the roots of common would be, why people would speak a language like english? I knew that Latin would be the human language, but I did not want to think about the logistics of everyone speaking a romance language when I do not speak that language so instead I decided to create lingual schism where humans decided to stop speaking "Latin" and instead choose to move to different languages. This covers the roots of English as a common language but not why English.
+> 
+> The why comes from the Lutens and Caelans (with a little help from the Verbans). These non-human theic creatures did not wake up speaking Latin so I thought it would be a good idea to just have them speaking the ancient roots of english. So common is authentically a mashing together of the major languages, like in the real world. Thus this is why lutans speak "German", caelans speak "Greek", humans "Latin", and verbans speak "Norse" (probably something closer to norewegian or even icelandic tbh).
+
+On the first day all people knew how to speak. It was intrinsic, and while they did not know how to build a fire, language was an important gift given to the theic people of the world. 
+
+Humans, lutans, caelans, and verbans all spoke distinct languages and thus their towns and cities bear names unique to those languages. In human towns you may find something like Conventium or Urvialis. Lutan cities may have names like Tiestad or Grunort. Caelans might have cities named Topefon or Chromenos.
+
+~800 years ago, when Taro destroyed Maldant and retreated to wherever he went, people were pretty tired of speaking the human tongue, even the lutans and caelans were forced to speak human. This lead to a push back against human and using it as a primary language. Since humans were the dominant species in the world and since most people were speaking human, this was a difficult transition, though it did eventually happen. What happened was people were more open to adopting other languages, with Kir and Maldantis almost entirely adopting lutan as their national language, leaving human as a religious language. Lutan blended with human, and caelan, with a little bit of verban and we were then left with what is now simply called "common" since it draws so much from other languages. Lutan is still the closest root to common though every culture adds to the language in their own way. Common quickly became the trading language used as people spread out and began talking with people from far away places, and by the time people could call someone from across the world, common became the standard.
+
+With this all but the most conservative will at least know some common. A traveler may find some difficulty conversating with extremly insular lutans or caelans if they do not speak their language, and most verbans stick to their language unless they live close to a center of civilization of one of the other theic groups.
+
+Beyond there there are plenty of languages spoken by minority groups across the world, with some guar even developing their own languages, like with draconic or the various goblin tongues. Though these guar languages often rely heavily on theic roots.
+
+Common is considered a kind of creole language (or pidgin).

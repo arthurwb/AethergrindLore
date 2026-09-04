@@ -1,0 +1,9 @@
+Once a cradle of civilization, this bay was once dotted with countless coastal towns and cities, living off of the calm waters of the bay and the plentiful fish. During Taro's reign the bay would experience its golden age and would be a shinning jewel of Vintus.
+
+After the Abdication of Taro the region would fall further and further as piracy would become rampant. The region became a warzone with cities fighting for claim over the bountiful bay. After hundreds of years of fighting the bay would become extremely inhospitable, forcing most of the residence to leave for safer places. Most trade routes no longer followed along the coast through the bay and instead opted to simply shoot across the gap to avoid the hostilities.
+
+It would not be until about 100 years ago that the pirate nations would come together under a single banner, forced to join together as fewer and fewer vessels dared to travel through the bay and piracy outside of the bay becomes too dangerous due to advancements in the militaries of surroundings nations.
+
+The bay still serves as a good trade route for transporting goods into central Vintus, so a contract was created where companies could pay to gain safe passage through the bay. This would open the bay back up to trade and transport. Though there would still be plenty of rogue pirates who do not follow the contract and many more traders who decide to risk their luck and travel through the bay without an up to date contract, those traders considered free pickings for any enterprising pirate in the area.
+
+While the area is still a fraction of what it once was, the exaggerated violence of the past is gone and instead replaced by skullduggery of a different kind. Under the law of Silus Point pirates must conform to a code of conduct, lest the face the wrath of Madam Durand and her 1000-fold fleet.
