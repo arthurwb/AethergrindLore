@@ -9,7 +9,7 @@ type FolderNode = {
   children: Record<string, FolderNode>
 }
 
-const IGNORED_FOLDERS = new Set(['Locations'])
+const IGNORED_FOLDERS = new Set(['Locations', 'Timeline'])
 
 // Step 1: build folder tree
 function buildFolderTree() {
