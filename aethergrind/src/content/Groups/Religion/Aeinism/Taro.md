@@ -1,4 +1,4 @@
-Taro is one of the most significant Saints in modern Aienism.
+Taro is one of the most significant Saints in modern Aeinism.
 
 Taro was uniquely gifted in charisma and was able to convince many people to join him in the first age.
 

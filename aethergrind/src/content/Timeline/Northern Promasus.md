@@ -1,0 +1,1 @@
+:12: Dragons destroy countless settlements and colonies, forcing those left in Northern Promasus to either go into hiding or retreat south.

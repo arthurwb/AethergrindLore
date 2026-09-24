@@ -8,4 +8,4 @@ Much more dogmatic in their teachings.
 
 Orthodox churches do not let anyone join them, instead hopeful practitioners must become [confirmed](<Confirmation.md>) in order to participate.
 
-Most Orthodox churches believe [[Polytheistic Aienism]] to be blasphemous though only more radical sects actively harass Polytheistic churches.
+Most Orthodox churches believe [[Polytheistic Aeinism]] to be blasphemous though only more radical sects actively harass Polytheistic churches.

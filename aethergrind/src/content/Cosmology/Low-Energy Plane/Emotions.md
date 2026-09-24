@@ -1,0 +1,45 @@
+**Positive**
+* Hope
+	* Optimism
+		* Reassurance
+		* Trust
+	* Faith
+		* Acceptance
+		* Patience
+* Peace
+	* Contentment
+		* Satisfaction
+		* Gratitude
+	* Serenity
+		* Calm
+		* Tranquility
+**Neutral**
+* Uncertainty
+	* Doubt
+		* Hesitation
+		* Indecision
+	* Ambivalence 
+		* Thoughtfulness
+		* Consideration
+* Contemplation
+	* Reflection
+		* Introspection
+		* Reminiscence 
+	* Pensiveness
+		* Thoughtfulness
+		* Consideration
+**Negative**
+* Sorrow
+	* Grief
+		* Mourning
+		* Heartache
+	* Despair
+		* Hopelessness
+		* Despondency
+* Shame
+	* Guilt
+		* Remorse
+		* Self-Reproach
+	* Embarrassment 
+		* Inadequacy
+		* Humiliation

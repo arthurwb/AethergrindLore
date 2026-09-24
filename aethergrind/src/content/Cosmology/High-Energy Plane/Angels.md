@@ -1,0 +1,1 @@
+Angels do no follow the same hierarchical structure that demons do. Instead, most angels will work on their own, with only a select few, often weaker, angels choosing to group together.

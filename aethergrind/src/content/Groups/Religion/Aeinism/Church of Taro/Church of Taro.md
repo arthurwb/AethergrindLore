@@ -1,4 +1,4 @@
-The Church of Taro is the largest sect of [[Orthodox Aienism]].
+The Church of Taro is the largest sect of [[Orthodox Aeinism]].
 
 They were formed from the remnants of their church leftover after both the *Abdication of Taro* and collapse of *Maldantis*.
 

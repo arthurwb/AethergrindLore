@@ -1,0 +1,45 @@
+**Positive**
+* Excitement
+	* Enthusiasm
+		* Eagerness
+		* Zeal
+	* Elation
+		* Exhilaration
+		* Euphoria
+* Passion
+	* Desire
+		* Craving
+		* Longing
+	* Affection
+		* Adoration
+		* Infatuation
+**Neutral**
+* Alertness
+	* Attention
+		* Vigilance
+		* Awareness
+	* Surprise
+		* Astonishment
+		* Shock
+* Agitation
+	* Restlessness
+		* Impatience
+		* Irritability
+	* Urgency
+		* Tension
+		* Anticipation
+**Negative**
+* Anger
+	* Irritation
+		* Annoyance
+		* Frustration
+	* Rage
+		* Fury
+		* Wrath
+* Fear
+	* Anxiety
+		* Nervousness
+		* Apprehension
+	* Panic
+		* Terror
+		* Horror

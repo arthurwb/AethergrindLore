@@ -6,6 +6,9 @@
 - *Biome*: Temperate Steppe/Broadleaf Forest
 - *Economy*: Agriculture, Trade
 
+**Geography**
+* Lake Solitude
+
 ### **Region: The Middens**
 - *Center*: Galystun
 - *Government*: Plutocracy

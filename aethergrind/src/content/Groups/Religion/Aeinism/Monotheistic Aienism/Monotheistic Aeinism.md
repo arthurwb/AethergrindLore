@@ -1,4 +1,4 @@
-Monotheists are a relatively small sect of Aienism who worship Aein directly rather than the saints.
+Monotheists are a relatively small sect of Aeinism who worship Aein directly rather than the saints.
 
 Monotheists are often scholarly in their persuits, often trying to grasp the concept of Aein and developing their Compact Theory.
 

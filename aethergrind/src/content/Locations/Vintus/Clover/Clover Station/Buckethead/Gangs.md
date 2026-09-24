@@ -10,10 +10,10 @@ By far the most hated gang in Buckethead. The Casket Boys deal mostly in the buy
 Monopoly: Weapons
 
 Born out of a need to protect themselves in the violence of Buckethead, originally the Gunstreet Girls were just a small collective stationed on Gun Street. Over time they muscled in on the arms trade and over time turn Gun Street into something more deserving of its name. The Gunstreet Girls are known for two major things: any men who work for them are never armed (though they often find work around with magic), and if anyone ever tries to muscle in on their business or turf they respond violently and sadistically. While they do not control the most area in Buckethead they are possibly the most significant.
-## The Mosh
+## The Gnash
 Monopoly: Violence, Entertainment
 
-The Mosh originate from the underground music scene in the Promenade. While in the Promenade they were known for inciting riots under the guise of music performances. After they were listed as a threat to the city they had to move their operations down into Buckethead, applying their violent tendencies as thugs and extortionists, willing to work for anyone who needed a few heads caved in or to at least threaten as much. Now more of a side business, the Mosh still enjoys supporting local music, so long as it is fast and violent.
+The Gnash originate from the underground music scene in the Promenade. While in the Promenade they were known for inciting riots under the guise of music performances. After they were listed as a threat to the city they had to move their operations down into Buckethead, applying their violent tendencies as thugs and extortionists, willing to work for anyone who needed a few heads caved in or to at least threaten as much. Now more of a side business, the Gnash still enjoys supporting local music, so long as it is fast and violent.
 ## Pharmacists
 Monopoly: Drugs
 

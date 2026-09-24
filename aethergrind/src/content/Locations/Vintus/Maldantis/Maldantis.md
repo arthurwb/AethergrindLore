@@ -7,12 +7,16 @@
 - *Economy*: Mercenaries, Donations, Tourism
 
 Many would consider Folly to be the only civilized place left in Maldantis. Formed by the Church of Taro after the abdication of Taro, the city has dedicated itself to cleansing Maldantis and keeping the word of Taro alive in their actions and policy.
+
+**Geography**
+* Lake Novitium
 #### Minor Settlements
 #### Villages
 #### Towns
 * Lucasorium
 #### Cities
 #### Polis
+* Folly
 ### **Region: Pacellum**
 - *Center*: Terium
 - *Government*: Autocracy
@@ -32,6 +36,9 @@ Many would consider Folly to be the only civilized place left in Maldantis. Form
 - *Climate*: Cool Temperate Dry
 - *Biome*: Temperate Broadleaf Forest
 - *Economy*: Raiding, Mercenaries, Donations, Fishing
+
+**Geography**
+* Lake Tristrum
 #### Minor Settlements
 #### Villages
 #### Towns
