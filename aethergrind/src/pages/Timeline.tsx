@@ -1,7 +1,6 @@
 import { markdownFiles } from '../content/contentMap'
 import { useEffect, useState } from 'react'
 import parse from 'html-react-parser';
-import { data } from 'react-router-dom';
 
 const TARGET_FOLDER = 'Timeline'
 
