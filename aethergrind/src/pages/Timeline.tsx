@@ -43,12 +43,9 @@ function LoadTimelineData({ files }: { files: TimelineFile[] }) {
             })
             .filter((item): item is ContentGroup => item !== null)
 
-        // Use the filename as the group name.
-        // Spaces are replaced with hyphens for CSS class compatibility.
         const group = file.name.replace(/\s+/g, '-')
 
         content.forEach(item => {
-            // Convert **text** into bold HTML
             item.content = item.content.replace(
                 /\*\*(.*?)\*\*/g,
                 '<strong>$1</strong>'
@@ -62,16 +59,9 @@ function LoadTimelineData({ files }: { files: TimelineFile[] }) {
         })
     })
 
-    // Sort every event globally by date.
-    // Events from different groups therefore remain interleaved
-    // when their dates overlap.
     timeline.sort((a, b) => a.date - b.date)
 
-    // Get every unique group.
     const groups = [...new Set(timeline.map(item => item.group))]
-
-    // Give each group a unique numeric ID.
-    // This ID is used to consistently generate its color.
     const groupIds = new Map<string, number>()
 
     groups.forEach((group, index) => {
@@ -80,23 +70,22 @@ function LoadTimelineData({ files }: { files: TimelineFile[] }) {
 
     return (
         <div className="timeline">
-            {/* Central timeline */}
             <div className="timeline-line" />
 
             {timeline.map((item, index) => {
                 const groupId = groupIds.get(item.group) ?? 0
 
-                // Alternate events left/right.
-                // This only affects visual placement and does NOT
-                // affect chronological ordering.
-                const side = index % 2 === 0 ? 'left' : 'right'
+                // Groups 0-5 are on the left.
+                // Groups 6+ are on the right.
+                const side = groupId < 6 ? 'left' : 'right'
 
                 return (
                     <div
                         className={`timeline-event timeline-${side}`}
                         key={`${item.group}-${item.date}-${index}`}
                     >
-                        {/* Event marker on the central timeline */}
+                        <div className="timeline-connector" />
+
                         <div
                             className="timeline-marker"
                             style={
@@ -106,12 +95,7 @@ function LoadTimelineData({ files }: { files: TimelineFile[] }) {
                             }
                         />
 
-                        {/* Line connecting the event to the timeline */}
-                        <div className="timeline-connector" />
-
-                        {/* Event information */}
                         <div className="timeline-content">
-                            {/* Group */}
                             <div
                                 className="timeline-group"
                                 style={
@@ -123,15 +107,13 @@ function LoadTimelineData({ files }: { files: TimelineFile[] }) {
                                 {item.group}
                             </div>
 
-                            {/* Date */}
-                            <div className="timeline-date">
+                            <span className="timeline-date">
                                 {item.date}
-                            </div>
+                            </span>
 
-                            {/* Event description */}
-                            <div className="timeline-description">
+                            <span className="timeline-description">
                                 {parse(item.content)}
-                            </div>
+                            </span>
                         </div>
                     </div>
                 )
@@ -155,6 +137,7 @@ export default function TimelineIndexPage() {
                 }
 
                 const content = await loader()
+
                 const name =
                     path.split('/').pop()?.replace(/\.md$/, '') ?? ''
 
