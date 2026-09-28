@@ -176,55 +176,143 @@ strong {
 
 /** Timeline **/
 
+.timeline {
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+/* Central time axis */
+.timeline-line {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    bottom: 0;
+
+    width: 3px;
+
+    background: #888;
+
+    transform: translateX(-50%);
+}
+
+/* Every event gets its own chronological row */
+.timeline-event {
+    position: relative;
+
+    display: flex;
+    align-items: flex-start;
+
+    width: 100%;
+    min-height: 120px;
+
+    margin-bottom: 20px;
+}
+
+/* Event marker */
+.timeline-marker {
+    position: absolute;
+
+    left: 50%;
+    top: 18px;
+
+    width: 14px;
+    height: 14px;
+
+    border-radius: 50%;
+    border: 3px solid white;
+
+    background: hsl(
+        calc(var(--group-id) * 67),
+        65%,
+        50%
+    );
+
+    box-shadow: 0 0 0 2px #888;
+
+    transform: translateX(-50%);
+
+    z-index: 2;
+}
+
+/* Event box */
+.timeline-content {
+    width: calc(50% - 45px);
+
+    padding: 12px 16px;
+
+    border: 1px solid #ccc;
+    border-radius: 8px;
+
+    background: white;
+
+    box-sizing: border-box;
+}
+
+/* Alternate sides */
+.timeline-left {
+    justify-content: flex-start;
+}
+
+.timeline-right {
+    justify-content: flex-end;
+}
+
+/* Connector */
+.timeline-connector {
+    position: absolute;
+
+    top: 25px;
+
+    width: 45px;
+    height: 2px;
+
+    background: #aaa;
+}
+
+.timeline-left .timeline-connector {
+    left: calc(50% - 45px);
+}
+
+.timeline-right .timeline-connector {
+    left: 50%;
+}
+
+/* Group label */
+.timeline-group {
+    display: inline-block;
+
+    margin-bottom: 6px;
+    padding: 3px 8px;
+
+    border-radius: 4px;
+
+    color: white;
+
+    font-size: 0.75rem;
+    font-weight: 600;
+
+    background: hsl(
+        calc(var(--group-id) * 67),
+        65%,
+        50%
+    );
+}
+
+/* Date */
 .timeline-date {
-  font-size: x-large;
+    font-size: 1.15rem;
+    font-weight: 600;
+
+    margin-bottom: 6px;
 }
 
-.timeline-Timeline {
-  border: 2px solid var(--primary-color);
-  padding: 2px;
-  margin: 2px;
+/* Description */
+.timeline-description {
+    line-height: 1.5;
 }
-/* 
-.timeline-Aristolia {
-  margin-left: 0%;
-  margin-right: 50%;
-}
-
-.timeline-Central-Vintus {
-  margin-left: 6.25%;
-  margin-right: 43.75%;
-}
-
-.timeline-Eastern-Promasus {
-  margin-left: 12.5%;
-  margin-right: 37.5%;
-}
-
-.timeline-Eastern-Vintus {
-  margin-left: 18.75%;
-  margin-right: 31.25%;
-}
-
-.timeline-Northern-Promasus {
-  margin-left: 25%;
-  margin-right: 25%;
-}
-
-.timeline-Northern-Vintus {
-  margin-left: 31.25%;
-  margin-right: 18.75%;
-}
-
-.timeline-Western-Promasus {
-  margin-left: 37.5%;
-  margin-right: 12.5%;
-}
-
-.timeline-Western-Vintus {
-  margin-left: 43.75%;
-  margin-right: 6.25%;
-} */
 
 /** End of Timeline **/
 
