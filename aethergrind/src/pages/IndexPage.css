@@ -246,7 +246,7 @@ strong {
     border: 1px solid #ccc;
     border-radius: 8px;
 
-    background: white;
+    background: black;
 
     box-sizing: border-box;
 }
@@ -289,7 +289,7 @@ strong {
 
     border-radius: 4px;
 
-    color: white;
+    color: black;
 
     font-size: 0.75rem;
     font-weight: 600;
