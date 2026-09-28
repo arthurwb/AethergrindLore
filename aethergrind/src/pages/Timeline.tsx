@@ -1,26 +1,3 @@
-import { markdownFiles } from '../content/contentMap'
-import { useEffect, useState } from 'react'
-import parse from 'html-react-parser';
-
-const TARGET_FOLDER = 'Timeline'
-
-type TimelineFile = {
-    path: string
-    name: string
-    content: string
-}
-
-type TimelineGroup = {
-    group: string
-    date: number | string
-    content: string
-}
-
-type ContentGroup = {
-    date: number
-    content: string
-}
-
 function LoadTimelineData({ files }: { files: TimelineFile[] }) {
     const timeline: TimelineGroup[] = []
 
@@ -43,67 +20,80 @@ function LoadTimelineData({ files }: { files: TimelineFile[] }) {
             })
             .filter((item): item is ContentGroup => item !== null)
 
+        const group = file.name.replace(/\s+/g, '-')
+
         content.forEach(item => {
-            item.content = item.content.replace(/\*\*(.*?)\*\*/g,
-                '<strong>$1</strong>')
-
-            file.name = file.name.replace(/\s+/g, '-')
-
-            console.log(file.name)
+            item.content = item.content.replace(
+                /\*\*(.*?)\*\*/g,
+                '<strong>$1</strong>'
+            )
 
             timeline.push({
-                group: file.name,
+                group,
                 date: item.date,
                 content: item.content,
             })
         })
     })
 
-    timeline.sort((a, b) => Number(a.date) - Number(b.date))
+    // Global chronological ordering
+    timeline.sort((a, b) => a.date - b.date)
+
+    // Give every group a unique CSS class/index
+    const groups = [...new Set(timeline.map(item => item.group))]
+
+    const groupIds = new Map<string, number>()
+
+    groups.forEach((group, index) => {
+        groupIds.set(group, index)
+    })
 
     return (
         <div className="timeline">
-            {timeline.map((item, index) => (
-                <div className="" key={`${item.date}-${index}`}>
-                    <div className={`timeline-${item.group}`}>
-                        <span className='timeline-date'>{item.date}</span>: {parse(item.content)}
+            <div className="timeline-line" />
+
+            {timeline.map((item, index) => {
+                const groupId = groupIds.get(item.group) ?? 0
+
+                // Alternate the event boxes purely for readability.
+                // This has NO effect on chronological order.
+                const side = index % 2 === 0 ? 'left' : 'right'
+
+                return (
+                    <div
+                        key={`${item.group}-${item.date}-${index}`}
+                        className={`timeline-event timeline-${side}`}
+                    >
+                        <div
+                            className="timeline-marker"
+                            style={{
+                                '--group-id': groupId,
+                            } as React.CSSProperties}
+                        />
+
+                        <div className="timeline-connector" />
+
+                        <div className="timeline-content">
+                            <div
+                                className="timeline-group"
+                                style={{
+                                    '--group-id': groupId,
+                                } as React.CSSProperties}
+                            >
+                                {item.group}
+                            </div>
+
+                            <div className="timeline-date">
+                                {item.date}
+                            </div>
+
+                            <div className="timeline-description">
+                                {parse(item.content)}
+                            </div>
+                        </div>
                     </div>
-                </div>
-            ))}
+                )
+            })}
         </div>
     )
-}
-
-
-export default function TimelineIndexPage() {
-    const [timelineFiles, setTimelineFiles] = useState<TimelineFile[]>([])
-
-        useEffect(() => {
-            async function loadTimelineFiles() {
-            const files: TimelineFile[] = []
-
-            for (const [path, loader] of Object.entries(markdownFiles)) {
-                const relativePath = path.replace('/src/content/', '')
-
-                if (!relativePath.startsWith(`${TARGET_FOLDER}/`)) {
-                    continue
-                }
-
-                const content = await loader()
-                const name = path.split('/').pop()?.replace(/\.md$/, '') ?? ''
-
-                files.push({
-                    path,
-                    name,
-                    content,
-                })
-            }
-
-            setTimelineFiles(files)
-            }
-
-            loadTimelineFiles()
-        }, [])
-
-    return <LoadTimelineData files={timelineFiles} />
 }
