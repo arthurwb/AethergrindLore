@@ -75,9 +75,7 @@ function LoadTimelineData({ files }: { files: TimelineFile[] }) {
             {timeline.map((item, index) => {
                 const groupId = groupIds.get(item.group) ?? 0
 
-                // Groups 0-5 are on the left.
-                // Groups 6+ are on the right.
-                const side = groupId < 6 ? 'left' : 'right'
+                const side = groupId < 5 ? 'left' : 'right'
 
                 return (
                     <div
