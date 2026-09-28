@@ -306,6 +306,8 @@ strong {
     font-size: 1.15rem;
     font-weight: 600;
 
+    padding-left: 6px;
+    padding-right: 6px;
     margin-bottom: 6px;
 }
 
