@@ -90,21 +90,31 @@ function LoadTimelineData({ files }: { files: TimelineFile[] }) {
                     position = 'right'
                 }
 
+                const isImportant = groupId === 0
+
                 return (
                     <div
-                        className={`timeline-event timeline-${position}`}
+                        className={`timeline-event timeline-${position}${
+                            isImportant ? ' timeline-important' : ''
+                        }`}
                         key={`${item.group}-${item.date}-${index}`}
                     >
-                        <div className="timeline-connector" />
+                        {/* Only render the connector for non-important events */}
+                        {!isImportant && (
+                            <div className="timeline-connector" />
+                        )}
 
-                        <div
-                            className="timeline-marker"
-                            style={
-                                {
-                                    '--group-id': groupId,
-                                } as React.CSSProperties
-                            }
-                        />
+                        {/* Only render the marker for non-important events */}
+                        {!isImportant && (
+                            <div
+                                className="timeline-marker"
+                                style={
+                                    {
+                                        '--group-id': groupId,
+                                    } as React.CSSProperties
+                                }
+                            />
+                        )}
 
                         <div className="timeline-content">
                             <div
