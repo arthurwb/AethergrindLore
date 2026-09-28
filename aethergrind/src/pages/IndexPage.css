@@ -256,6 +256,10 @@ strong {
     justify-content: flex-start;
 }
 
+.timeline-center {
+    justify-content: center;
+}
+
 .timeline-right {
     justify-content: flex-end;
 }
