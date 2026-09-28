@@ -59,8 +59,10 @@ function LoadTimelineData({ files }: { files: TimelineFile[] }) {
         })
     })
 
+    // Keep everything in chronological order
     timeline.sort((a, b) => a.date - b.date)
 
+    // Assign each group a numeric ID based on file order
     const groups = [...new Set(timeline.map(item => item.group))]
     const groupIds = new Map<string, number>()
 
@@ -75,11 +77,22 @@ function LoadTimelineData({ files }: { files: TimelineFile[] }) {
             {timeline.map((item, index) => {
                 const groupId = groupIds.get(item.group) ?? 0
 
-                const side = groupId < 5 ? 'left' : 'right'
+                let position: 'left' | 'right' | 'center'
+
+                if (groupId === 0) {
+                    // Important events sit directly on top of the timeline
+                    position = 'center'
+                } else if (groupId < 5) {
+                    // Groups 1-4 are on the left
+                    position = 'left'
+                } else {
+                    // Groups 5+ are on the right
+                    position = 'right'
+                }
 
                 return (
                     <div
-                        className={`timeline-event timeline-${side}`}
+                        className={`timeline-event timeline-${position}`}
                         key={`${item.group}-${item.date}-${index}`}
                     >
                         <div className="timeline-connector" />
