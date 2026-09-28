@@ -132,9 +132,9 @@ function LoadTimelineData({ files }: { files: TimelineFile[] }) {
                                 {item.date} :
                             </span>
 
-                            <span className="timeline-description">
+                            <p className="timeline-description">
                                 {parse(item.content)}
-                            </span>
+                            </p>
                         </div>
                     </div>
                 )
